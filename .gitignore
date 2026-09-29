@@ -1,0 +1,12 @@
+# IDEs e Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorar pastas de build e dependências na raiz, caso existam
+node_modules/
+target/
+dist/
+
+# O resto dos ignores estão nas pastas barberapp-frontend e barberapp-backend
